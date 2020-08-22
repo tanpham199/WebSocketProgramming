@@ -1,0 +1,13 @@
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\bin\Debug\netcoreapp3.1\1712150_BTTH01.exe
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\bin\Debug\netcoreapp3.1\1712150_BTTH01.deps.json
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\bin\Debug\netcoreapp3.1\1712150_BTTH01.runtimeconfig.json
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\bin\Debug\netcoreapp3.1\1712150_BTTH01.runtimeconfig.dev.json
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\bin\Debug\netcoreapp3.1\1712150_BTTH01.dll
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\bin\Debug\netcoreapp3.1\1712150_BTTH01.pdb
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\obj\Debug\netcoreapp3.1\1712150_BTTH01.csprojAssemblyReference.cache
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\obj\Debug\netcoreapp3.1\1712150_BTTH01.AssemblyInfoInputs.cache
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\obj\Debug\netcoreapp3.1\1712150_BTTH01.AssemblyInfo.cs
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\obj\Debug\netcoreapp3.1\1712150_BTTH01.dll
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\obj\Debug\netcoreapp3.1\1712150_BTTH01.pdb
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\obj\Debug\netcoreapp3.1\1712150_BTTH01.csproj.CoreCompileInputs.cache
+C:\Users\nhatt\OneDrive\Desktop\1712150_BTTH01\1712150_BTTH01\obj\Debug\netcoreapp3.1\1712150_BTTH01.genruntimeconfig.cache
